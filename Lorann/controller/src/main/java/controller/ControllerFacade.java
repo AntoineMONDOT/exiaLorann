@@ -54,7 +54,8 @@ public class ControllerFacade implements IController {
         }
         this.getView().displayMessage(message.toString());
     }
-
+        
+    
     /**
      * Gets the view.
      *
